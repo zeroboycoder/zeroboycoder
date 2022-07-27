@@ -21,7 +21,7 @@ I am work with
  - MySQL, MongoDB
  - Figma, Canva, Photoshop
 
-<p>**My GitHub Stats :**</p>
+**My GitHub Stats :**
 <br />
 ![Pyae Sone Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroboycoder&show_icons=true&theme=tokyonight)
 
