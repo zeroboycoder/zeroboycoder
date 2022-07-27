@@ -21,10 +21,12 @@ I am work with
  - MySQL, MongoDB
  - Figma, Canva, Photoshop
 
-**My GitHub Stats :**
+<p>**My GitHub Stats :**</p>
+<br />
 ![Pyae Sone Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroboycoder&show_icons=true&theme=tokyonight)
 
 **Most Languages that I used:**
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroboycoder&layout=compact&theme=tokyonight)
 
 <h2>Other links</h2>
