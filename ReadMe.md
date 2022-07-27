@@ -31,7 +31,7 @@ I am work with
 
 <h2>Other links</h2>
 
- - Website : zeroboycoder.github.io
+ - Website : http://zeroboycoder.github.io/
  - Email : pyaesonekhant.contact@protonmail.com
  - Facebook : www.facebook.com/pyaesonekhant.zeroboy
  - Medium : https://medium.com/@pyaesonekhant1234
