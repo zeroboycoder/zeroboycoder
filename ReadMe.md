@@ -16,8 +16,9 @@ I am work with
 
  - HTML 5, CSS 3, JS 6, TS
  - Bootstrap, Material UI, Tailwind CSS, 
- - React, React Native, Flutter
+ - Vue, React, React Native, Flutter
  - Node, Dart
+ - GraphQl, REST
  - MySQL, MongoDB
  - Figma, Canva, Photoshop
 
