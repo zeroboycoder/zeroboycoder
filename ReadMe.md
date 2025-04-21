@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👻  I'm Pyae Sone Khant </h1>
-<h3>Full Stack Web developer, Junior React Native developer, Junior Flutter developer and love to create something new things.</h3>
+<h3>Blah blah blah.</h3>
 <hr />
 
 🌿 I'm IT student and currently learning **computer science and javascript**.
